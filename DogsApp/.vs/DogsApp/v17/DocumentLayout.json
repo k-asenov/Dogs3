@@ -1,0 +1,395 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Kalin 12b\\Slavova\\DogsProject\\DogsProject\\DogsApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2B50B2BE-0CB4-4C09-9EB5-7886CD7B2754}|DogsApp\\DogsApp.csproj|c:\\kalin 12b\\slavova\\dogsproject\\dogsproject\\dogsapp\\dogsapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B50B2BE-0CB4-4C09-9EB5-7886CD7B2754}|DogsApp\\DogsApp.csproj|solutionrelative:dogsapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC10E583-C05C-4788-9AFF-82ED74EC1354}|DogsApp.Infrastructure\\DogsApp.Infrastructure.csproj|C:\\Kalin 12b\\Slavova\\DogsProject\\DogsProject\\DogsApp\\dogsapp.infrastructure\\dogsapp.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{EC10E583-C05C-4788-9AFF-82ED74EC1354}|DogsApp.Infrastructure\\DogsApp.Infrastructure.csproj|solutionrelative:dogsapp.infrastructure\\dogsapp.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F806DAFB-924A-4364-9A0C-41D8818BCB72}|DogsApp.Core\\DogsApp.Core.csproj|C:\\Kalin 12b\\Slavova\\DogsProject\\DogsProject\\DogsApp\\dogsapp.core\\contacts\\idogservece.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F806DAFB-924A-4364-9A0C-41D8818BCB72}|DogsApp.Core\\DogsApp.Core.csproj|solutionrelative:dogsapp.core\\contacts\\idogservece.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F806DAFB-924A-4364-9A0C-41D8818BCB72}|DogsApp.Core\\DogsApp.Core.csproj|C:\\Kalin 12b\\Slavova\\DogsProject\\DogsProject\\DogsApp\\dogsapp.core\\services\\dogservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F806DAFB-924A-4364-9A0C-41D8818BCB72}|DogsApp.Core\\DogsApp.Core.csproj|solutionrelative:dogsapp.core\\services\\dogservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B50B2BE-0CB4-4C09-9EB5-7886CD7B2754}|DogsApp\\DogsApp.csproj|C:\\Kalin 12b\\Slavova\\DogsProject\\DogsProject\\DogsApp\\dogsapp\\controllers\\dogcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B50B2BE-0CB4-4C09-9EB5-7886CD7B2754}|DogsApp\\DogsApp.csproj|solutionrelative:dogsapp\\controllers\\dogcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F806DAFB-924A-4364-9A0C-41D8818BCB72}|DogsApp.Core\\DogsApp.Core.csproj|C:\\Kalin 12b\\Slavova\\DogsProject\\DogsProject\\DogsApp\\dogsapp.core\\dogsapp.core.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{F806DAFB-924A-4364-9A0C-41D8818BCB72}|DogsApp.Core\\DogsApp.Core.csproj|solutionrelative:dogsapp.core\\dogsapp.core.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B50B2BE-0CB4-4C09-9EB5-7886CD7B2754}|DogsApp\\DogsApp.csproj|C:\\Kalin 12b\\Slavova\\DogsProject\\DogsProject\\DogsApp\\dogsapp\\dogsapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{2B50B2BE-0CB4-4C09-9EB5-7886CD7B2754}|DogsApp\\DogsApp.csproj|solutionrelative:dogsapp\\dogsapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B50B2BE-0CB4-4C09-9EB5-7886CD7B2754}|DogsApp\\DogsApp.csproj|C:\\Kalin 12b\\Slavova\\DogsProject\\DogsProject\\DogsApp\\dogsapp\\views\\dog\\success.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2B50B2BE-0CB4-4C09-9EB5-7886CD7B2754}|DogsApp\\DogsApp.csproj|solutionrelative:dogsapp\\views\\dog\\success.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B50B2BE-0CB4-4C09-9EB5-7886CD7B2754}|DogsApp\\DogsApp.csproj|C:\\Kalin 12b\\Slavova\\DogsProject\\DogsProject\\DogsApp\\dogsapp\\views\\dog\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2B50B2BE-0CB4-4C09-9EB5-7886CD7B2754}|DogsApp\\DogsApp.csproj|solutionrelative:dogsapp\\views\\dog\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B50B2BE-0CB4-4C09-9EB5-7886CD7B2754}|DogsApp\\DogsApp.csproj|C:\\Kalin 12b\\Slavova\\DogsProject\\DogsProject\\DogsApp\\dogsapp\\views\\dog\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2B50B2BE-0CB4-4C09-9EB5-7886CD7B2754}|DogsApp\\DogsApp.csproj|solutionrelative:dogsapp\\views\\dog\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B50B2BE-0CB4-4C09-9EB5-7886CD7B2754}|DogsApp\\DogsApp.csproj|C:\\Kalin 12b\\Slavova\\DogsProject\\DogsProject\\DogsApp\\dogsapp\\views\\dog\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2B50B2BE-0CB4-4C09-9EB5-7886CD7B2754}|DogsApp\\DogsApp.csproj|solutionrelative:dogsapp\\views\\dog\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B50B2BE-0CB4-4C09-9EB5-7886CD7B2754}|DogsApp\\DogsApp.csproj|C:\\Kalin 12b\\Slavova\\DogsProject\\DogsProject\\DogsApp\\dogsapp\\views\\dog\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2B50B2BE-0CB4-4C09-9EB5-7886CD7B2754}|DogsApp\\DogsApp.csproj|solutionrelative:dogsapp\\views\\dog\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B50B2BE-0CB4-4C09-9EB5-7886CD7B2754}|DogsApp\\DogsApp.csproj|C:\\Kalin 12b\\Slavova\\DogsProject\\DogsProject\\DogsApp\\dogsapp\\models\\dog\\dogdetailsviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B50B2BE-0CB4-4C09-9EB5-7886CD7B2754}|DogsApp\\DogsApp.csproj|solutionrelative:dogsapp\\models\\dog\\dogdetailsviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC10E583-C05C-4788-9AFF-82ED74EC1354}|DogsApp.Infrastructure\\DogsApp.Infrastructure.csproj|C:\\Kalin 12b\\Slavova\\DogsProject\\DogsProject\\DogsApp\\dogsapp.infrastructure\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC10E583-C05C-4788-9AFF-82ED74EC1354}|DogsApp.Infrastructure\\DogsApp.Infrastructure.csproj|solutionrelative:dogsapp.infrastructure\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B50B2BE-0CB4-4C09-9EB5-7886CD7B2754}|DogsApp\\DogsApp.csproj|C:\\Kalin 12b\\Slavova\\DogsProject\\DogsProject\\DogsApp\\dogsapp\\models\\dog\\dogeditviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B50B2BE-0CB4-4C09-9EB5-7886CD7B2754}|DogsApp\\DogsApp.csproj|solutionrelative:dogsapp\\models\\dog\\dogeditviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B50B2BE-0CB4-4C09-9EB5-7886CD7B2754}|DogsApp\\DogsApp.csproj|C:\\Kalin 12b\\Slavova\\DogsProject\\DogsProject\\DogsApp\\dogsapp\\models\\dog\\dogcreateviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B50B2BE-0CB4-4C09-9EB5-7886CD7B2754}|DogsApp\\DogsApp.csproj|solutionrelative:dogsapp\\models\\dog\\dogcreateviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B50B2BE-0CB4-4C09-9EB5-7886CD7B2754}|DogsApp\\DogsApp.csproj|C:\\Kalin 12b\\Slavova\\DogsProject\\DogsProject\\DogsApp\\dogsapp\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2B50B2BE-0CB4-4C09-9EB5-7886CD7B2754}|DogsApp\\DogsApp.csproj|solutionrelative:dogsapp\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B50B2BE-0CB4-4C09-9EB5-7886CD7B2754}|DogsApp\\DogsApp.csproj|C:\\Kalin 12b\\Slavova\\DogsProject\\DogsProject\\DogsApp\\dogsapp\\models\\dog\\dogallviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B50B2BE-0CB4-4C09-9EB5-7886CD7B2754}|DogsApp\\DogsApp.csproj|solutionrelative:dogsapp\\models\\dog\\dogallviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B50B2BE-0CB4-4C09-9EB5-7886CD7B2754}|DogsApp\\DogsApp.csproj|C:\\Kalin 12b\\Slavova\\DogsProject\\DogsProject\\DogsApp\\dogsapp\\views\\dog\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2B50B2BE-0CB4-4C09-9EB5-7886CD7B2754}|DogsApp\\DogsApp.csproj|solutionrelative:dogsapp\\views\\dog\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC10E583-C05C-4788-9AFF-82ED74EC1354}|DogsApp.Infrastructure\\DogsApp.Infrastructure.csproj|C:\\Kalin 12b\\Slavova\\DogsProject\\DogsProject\\DogsApp\\dogsapp.infrastructure\\migrations\\20231015203658_initialmigration.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC10E583-C05C-4788-9AFF-82ED74EC1354}|DogsApp.Infrastructure\\DogsApp.Infrastructure.csproj|solutionrelative:dogsapp.infrastructure\\migrations\\20231015203658_initialmigration.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC10E583-C05C-4788-9AFF-82ED74EC1354}|DogsApp.Infrastructure\\DogsApp.Infrastructure.csproj|C:\\Kalin 12b\\Slavova\\DogsProject\\DogsProject\\DogsApp\\dogsapp.infrastructure\\migrations\\applicationdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC10E583-C05C-4788-9AFF-82ED74EC1354}|DogsApp.Infrastructure\\DogsApp.Infrastructure.csproj|solutionrelative:dogsapp.infrastructure\\migrations\\applicationdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC10E583-C05C-4788-9AFF-82ED74EC1354}|DogsApp.Infrastructure\\DogsApp.Infrastructure.csproj|C:\\Kalin 12b\\Slavova\\DogsProject\\DogsProject\\DogsApp\\dogsapp.infrastructure\\data\\domain\\dog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC10E583-C05C-4788-9AFF-82ED74EC1354}|DogsApp.Infrastructure\\DogsApp.Infrastructure.csproj|solutionrelative:dogsapp.infrastructure\\data\\domain\\dog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B50B2BE-0CB4-4C09-9EB5-7886CD7B2754}|DogsApp\\DogsApp.csproj|C:\\Kalin 12b\\Slavova\\DogsProject\\DogsProject\\DogsApp\\dogsapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{2B50B2BE-0CB4-4C09-9EB5-7886CD7B2754}|DogsApp\\DogsApp.csproj|solutionrelative:dogsapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC10E583-C05C-4788-9AFF-82ED74EC1354}|DogsApp.Infrastructure\\DogsApp.Infrastructure.csproj|C:\\Kalin 12b\\Slavova\\DogsProject\\DogsProject\\DogsApp\\dogsapp.infrastructure\\migrations\\20231015203658_initialmigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC10E583-C05C-4788-9AFF-82ED74EC1354}|DogsApp.Infrastructure\\DogsApp.Infrastructure.csproj|solutionrelative:dogsapp.infrastructure\\migrations\\20231015203658_initialmigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Kalin 12b\\Slavova\\DogsProject\\DogsProject\\DogsApp\\DogsApp\\Views\\Dog\\Edit.cshtml",
+              "RelativeDocumentMoniker": "DogsApp\\Views\\Dog\\Edit.cshtml",
+              "ToolTip": "C:\\Kalin 12b\\Slavova\\DogsProject\\DogsProject\\DogsApp\\DogsApp\\Views\\Dog\\Edit.cshtml",
+              "RelativeToolTip": "DogsApp\\Views\\Dog\\Edit.cshtml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-03T08:48:15.04Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "DogEditViewModel.cs",
+              "DocumentMoniker": "C:\\Kalin 12b\\Slavova\\DogsProject\\DogsProject\\DogsApp\\DogsApp\\Models\\Dog\\DogEditViewModel.cs",
+              "RelativeDocumentMoniker": "DogsApp\\Models\\Dog\\DogEditViewModel.cs",
+              "ToolTip": "C:\\Kalin 12b\\Slavova\\DogsProject\\DogsProject\\DogsApp\\DogsApp\\Models\\Dog\\DogEditViewModel.cs",
+              "RelativeToolTip": "DogsApp\\Models\\Dog\\DogEditViewModel.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T08:48:15.04Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Kalin 12b\\Slavova\\DogsProject\\DogsProject\\DogsApp\\DogsApp\\Program.cs",
+              "RelativeDocumentMoniker": "DogsApp\\Program.cs",
+              "ToolTip": "C:\\Kalin 12b\\Slavova\\DogsProject\\DogsProject\\DogsApp\\DogsApp\\Program.cs",
+              "RelativeToolTip": "DogsApp\\Program.cs",
+              "ViewState": "AQIAABoAAAAAAAAAAAAAACMAAABCAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T08:48:15.586Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IDogServece.cs",
+              "DocumentMoniker": "C:\\Kalin 12b\\Slavova\\DogsProject\\DogsProject\\DogsApp\\DogsApp.Core\\Contacts\\IDogServece.cs",
+              "RelativeDocumentMoniker": "DogsApp.Core\\Contacts\\IDogServece.cs",
+              "ToolTip": "C:\\Kalin 12b\\Slavova\\DogsProject\\DogsProject\\DogsApp\\DogsApp.Core\\Contacts\\IDogServece.cs",
+              "RelativeToolTip": "DogsApp.Core\\Contacts\\IDogServece.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAABIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T08:56:27.216Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DogService.cs",
+              "DocumentMoniker": "C:\\Kalin 12b\\Slavova\\DogsProject\\DogsProject\\DogsApp\\DogsApp.Core\\Services\\DogService.cs",
+              "RelativeDocumentMoniker": "DogsApp.Core\\Services\\DogService.cs",
+              "ToolTip": "C:\\Kalin 12b\\Slavova\\DogsProject\\DogsProject\\DogsApp\\DogsApp.Core\\Services\\DogService.cs",
+              "RelativeToolTip": "DogsApp.Core\\Services\\DogService.cs",
+              "ViewState": "AQIAACYAAAAAAAAAAAAcwGIAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T09:05:00.3Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DogController.cs",
+              "DocumentMoniker": "C:\\Kalin 12b\\Slavova\\DogsProject\\DogsProject\\DogsApp\\DogsApp\\Controllers\\DogController.cs",
+              "RelativeDocumentMoniker": "DogsApp\\Controllers\\DogController.cs",
+              "ToolTip": "C:\\Kalin 12b\\Slavova\\DogsProject\\DogsProject\\DogsApp\\DogsApp\\Controllers\\DogController.cs",
+              "RelativeToolTip": "DogsApp\\Controllers\\DogController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T08:48:15.58Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Kalin 12b\\Slavova\\DogsProject\\DogsProject\\DogsApp\\DogsApp\\Views\\Dog\\Delete.cshtml",
+              "RelativeDocumentMoniker": "DogsApp\\Views\\Dog\\Delete.cshtml",
+              "ToolTip": "C:\\Kalin 12b\\Slavova\\DogsProject\\DogsProject\\DogsApp\\DogsApp\\Views\\Dog\\Delete.cshtml",
+              "RelativeToolTip": "DogsApp\\Views\\Dog\\Delete.cshtml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-03T08:48:15.037Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Kalin 12b\\Slavova\\DogsProject\\DogsProject\\DogsApp\\DogsApp\\Views\\Dog\\Index.cshtml",
+              "RelativeDocumentMoniker": "DogsApp\\Views\\Dog\\Index.cshtml",
+              "ToolTip": "C:\\Kalin 12b\\Slavova\\DogsProject\\DogsProject\\DogsApp\\DogsApp\\Views\\Dog\\Index.cshtml",
+              "RelativeToolTip": "DogsApp\\Views\\Dog\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-03T08:48:14.892Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DogsApp.Infrastructure.csproj",
+              "DocumentMoniker": "C:\\Kalin 12b\\Slavova\\DogsProject\\DogsProject\\DogsApp\\DogsApp.Infrastructure\\DogsApp.Infrastructure.csproj",
+              "RelativeDocumentMoniker": "DogsApp.Infrastructure\\DogsApp.Infrastructure.csproj",
+              "ToolTip": "C:\\Kalin 12b\\Slavova\\DogsProject\\DogsProject\\DogsApp\\DogsApp.Infrastructure\\DogsApp.Infrastructure.csproj",
+              "RelativeToolTip": "DogsApp.Infrastructure\\DogsApp.Infrastructure.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-12-03T08:48:15.586Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Kalin 12b\\Slavova\\DogsProject\\DogsProject\\DogsApp\\DogsApp\\Views\\Dog\\Details.cshtml",
+              "RelativeDocumentMoniker": "DogsApp\\Views\\Dog\\Details.cshtml",
+              "ToolTip": "C:\\Kalin 12b\\Slavova\\DogsProject\\DogsProject\\DogsApp\\DogsApp\\Views\\Dog\\Details.cshtml",
+              "RelativeToolTip": "DogsApp\\Views\\Dog\\Details.cshtml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-03T08:48:15.039Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DogsApp.Core.csproj",
+              "DocumentMoniker": "C:\\Kalin 12b\\Slavova\\DogsProject\\DogsProject\\DogsApp\\DogsApp.Core\\DogsApp.Core.csproj",
+              "RelativeDocumentMoniker": "DogsApp.Core\\DogsApp.Core.csproj",
+              "ToolTip": "C:\\Kalin 12b\\Slavova\\DogsProject\\DogsProject\\DogsApp\\DogsApp.Core\\DogsApp.Core.csproj",
+              "RelativeToolTip": "DogsApp.Core\\DogsApp.Core.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-12-03T08:50:12.82Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "DogsApp.csproj",
+              "DocumentMoniker": "C:\\Kalin 12b\\Slavova\\DogsProject\\DogsProject\\DogsApp\\DogsApp\\DogsApp.csproj",
+              "RelativeDocumentMoniker": "DogsApp\\DogsApp.csproj",
+              "ToolTip": "C:\\Kalin 12b\\Slavova\\DogsProject\\DogsProject\\DogsApp\\DogsApp\\DogsApp.csproj",
+              "RelativeToolTip": "DogsApp\\DogsApp.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-12-03T08:48:15.041Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "ApplicationDbContextModelSnapshot.cs",
+              "DocumentMoniker": "C:\\Kalin 12b\\Slavova\\DogsProject\\DogsProject\\DogsApp\\DogsApp.Infrastructure\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "DogsApp.Infrastructure\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "ToolTip": "C:\\Kalin 12b\\Slavova\\DogsProject\\DogsProject\\DogsApp\\DogsApp.Infrastructure\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "RelativeToolTip": "DogsApp.Infrastructure\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T08:48:15.043Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Success.cshtml",
+              "DocumentMoniker": "C:\\Kalin 12b\\Slavova\\DogsProject\\DogsProject\\DogsApp\\DogsApp\\Views\\Dog\\Success.cshtml",
+              "RelativeDocumentMoniker": "DogsApp\\Views\\Dog\\Success.cshtml",
+              "ToolTip": "C:\\Kalin 12b\\Slavova\\DogsProject\\DogsProject\\DogsApp\\DogsApp\\Views\\Dog\\Success.cshtml",
+              "RelativeToolTip": "DogsApp\\Views\\Dog\\Success.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-03T08:48:15.383Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Kalin 12b\\Slavova\\DogsProject\\DogsProject\\DogsApp\\DogsApp\\Views\\Dog\\Create.cshtml",
+              "RelativeDocumentMoniker": "DogsApp\\Views\\Dog\\Create.cshtml",
+              "ToolTip": "C:\\Kalin 12b\\Slavova\\DogsProject\\DogsProject\\DogsApp\\DogsApp\\Views\\Dog\\Create.cshtml",
+              "RelativeToolTip": "DogsApp\\Views\\Dog\\Create.cshtml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-03T08:48:15.581Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "DogDetailsViewModel.cs",
+              "DocumentMoniker": "C:\\Kalin 12b\\Slavova\\DogsProject\\DogsProject\\DogsApp\\DogsApp\\Models\\Dog\\DogDetailsViewModel.cs",
+              "RelativeDocumentMoniker": "DogsApp\\Models\\Dog\\DogDetailsViewModel.cs",
+              "ToolTip": "C:\\Kalin 12b\\Slavova\\DogsProject\\DogsProject\\DogsApp\\DogsApp\\Models\\Dog\\DogDetailsViewModel.cs",
+              "RelativeToolTip": "DogsApp\\Models\\Dog\\DogDetailsViewModel.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T08:48:15.581Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "DogCreateViewModel.cs",
+              "DocumentMoniker": "C:\\Kalin 12b\\Slavova\\DogsProject\\DogsProject\\DogsApp\\DogsApp\\Models\\Dog\\DogCreateViewModel.cs",
+              "RelativeDocumentMoniker": "DogsApp\\Models\\Dog\\DogCreateViewModel.cs",
+              "ToolTip": "C:\\Kalin 12b\\Slavova\\DogsProject\\DogsProject\\DogsApp\\DogsApp\\Models\\Dog\\DogCreateViewModel.cs",
+              "RelativeToolTip": "DogsApp\\Models\\Dog\\DogCreateViewModel.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T08:48:15.582Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Kalin 12b\\Slavova\\DogsProject\\DogsProject\\DogsApp\\DogsApp.Infrastructure\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "DogsApp.Infrastructure\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Kalin 12b\\Slavova\\DogsProject\\DogsProject\\DogsApp\\DogsApp.Infrastructure\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "DogsApp.Infrastructure\\Data\\ApplicationDbContext.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T08:48:15.582Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Kalin 12b\\Slavova\\DogsProject\\DogsProject\\DogsApp\\DogsApp\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "DogsApp\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Kalin 12b\\Slavova\\DogsProject\\DogsProject\\DogsApp\\DogsApp\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "DogsApp\\Views\\Shared\\_Layout.cshtml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-03T08:48:15.583Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "DogAllViewModel.cs",
+              "DocumentMoniker": "C:\\Kalin 12b\\Slavova\\DogsProject\\DogsProject\\DogsApp\\DogsApp\\Models\\Dog\\DogAllViewModel.cs",
+              "RelativeDocumentMoniker": "DogsApp\\Models\\Dog\\DogAllViewModel.cs",
+              "ToolTip": "C:\\Kalin 12b\\Slavova\\DogsProject\\DogsProject\\DogsApp\\DogsApp\\Models\\Dog\\DogAllViewModel.cs",
+              "RelativeToolTip": "DogsApp\\Models\\Dog\\DogAllViewModel.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T08:48:15.583Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "20231015203658_InitialMigration.Designer.cs",
+              "DocumentMoniker": "C:\\Kalin 12b\\Slavova\\DogsProject\\DogsProject\\DogsApp\\DogsApp.Infrastructure\\Migrations\\20231015203658_InitialMigration.Designer.cs",
+              "RelativeDocumentMoniker": "DogsApp.Infrastructure\\Migrations\\20231015203658_InitialMigration.Designer.cs",
+              "ToolTip": "C:\\Kalin 12b\\Slavova\\DogsProject\\DogsProject\\DogsApp\\DogsApp.Infrastructure\\Migrations\\20231015203658_InitialMigration.Designer.cs",
+              "RelativeToolTip": "DogsApp.Infrastructure\\Migrations\\20231015203658_InitialMigration.Designer.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T08:48:15.584Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "20231015203658_InitialMigration.cs",
+              "DocumentMoniker": "C:\\Kalin 12b\\Slavova\\DogsProject\\DogsProject\\DogsApp\\DogsApp.Infrastructure\\Migrations\\20231015203658_InitialMigration.cs",
+              "RelativeDocumentMoniker": "DogsApp.Infrastructure\\Migrations\\20231015203658_InitialMigration.cs",
+              "ToolTip": "C:\\Kalin 12b\\Slavova\\DogsProject\\DogsProject\\DogsApp\\DogsApp.Infrastructure\\Migrations\\20231015203658_InitialMigration.cs",
+              "RelativeToolTip": "DogsApp.Infrastructure\\Migrations\\20231015203658_InitialMigration.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T08:48:15.584Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Dog.cs",
+              "DocumentMoniker": "C:\\Kalin 12b\\Slavova\\DogsProject\\DogsProject\\DogsApp\\DogsApp.Infrastructure\\Data\\Domain\\Dog.cs",
+              "RelativeDocumentMoniker": "DogsApp.Infrastructure\\Data\\Domain\\Dog.cs",
+              "ToolTip": "C:\\Kalin 12b\\Slavova\\DogsProject\\DogsProject\\DogsApp\\DogsApp.Infrastructure\\Data\\Domain\\Dog.cs",
+              "RelativeToolTip": "DogsApp.Infrastructure\\Data\\Domain\\Dog.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T08:48:15.585Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Kalin 12b\\Slavova\\DogsProject\\DogsProject\\DogsApp\\DogsApp\\appsettings.json",
+              "RelativeDocumentMoniker": "DogsApp\\appsettings.json",
+              "ToolTip": "C:\\Kalin 12b\\Slavova\\DogsProject\\DogsProject\\DogsApp\\DogsApp\\appsettings.json",
+              "RelativeToolTip": "DogsApp\\appsettings.json",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-03T08:48:15.587Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
